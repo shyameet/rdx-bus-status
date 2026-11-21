@@ -1,0 +1,88 @@
+{
+ "v": 1,
+ "kind": "rdx-bus-devices",
+ "generated": "2026-11-21T11:31:52Z",
+ "offline_after_min": 10,
+ "devices": [
+  {
+   "id": "VPS",
+   "machine": {
+    "last_seen": "2026-11-21T11:31:28Z"
+   },
+   "claude": {
+    "listening": false,
+    "last_seen": null
+   },
+   "inbox": {
+    "unread": 1,
+    "oldest_at": "2026-11-20T07:40:56Z"
+   },
+   "auto": {
+    "enabled": true,
+    "last_start": "2026-11-21T11:28:26Z",
+    "last_end": "2026-11-21T11:29:27Z",
+    "running": false
+   }
+  },
+  {
+   "id": "SUMEET-PC",
+   "machine": {
+    "last_seen": "2026-11-21T11:30:59Z"
+   },
+   "claude": {
+    "listening": false,
+    "last_seen": null
+   },
+   "inbox": {
+    "unread": 13,
+    "oldest_at": "2026-11-19T01:06:22Z"
+   },
+   "auto": {
+    "enabled": true,
+    "last_start": "2026-11-21T11:23:53Z",
+    "last_end": "2026-11-21T11:24:54Z",
+    "running": false
+   }
+  },
+  {
+   "id": "SUMEET-LT",
+   "machine": {
+    "last_seen": "2026-11-20T11:02:56Z"
+   },
+   "claude": {
+    "listening": false,
+    "last_seen": null
+   },
+   "inbox": {
+    "unread": 0,
+    "oldest_at": null
+   },
+   "auto": {
+    "enabled": null,
+    "last_start": null,
+    "last_end": null,
+    "running": false
+   }
+  },
+  {
+   "id": "RAHUL-PC",
+   "machine": {
+    "last_seen": "2026-11-21T11:31:34Z"
+   },
+   "claude": {
+    "listening": false,
+    "last_seen": null
+   },
+   "inbox": {
+    "unread": 1,
+    "oldest_at": "2026-11-20T07:28:44Z"
+   },
+   "auto": {
+    "enabled": null,
+    "last_start": null,
+    "last_end": null,
+    "running": false
+   }
+  }
+ ]
+}
